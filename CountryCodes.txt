@@ -1,0 +1,237 @@
+United States:US
+Canada:CA
+China:CN
+Mexico:MX
+India:IN
+Japan:JP
+Germany:DE
+Italy:IT
+Hong Kong:HK
+Belgium:BE
+France:FR
+Spain:ES
+Singapore:SG
+Poland:PL
+Australia:AU
+Malaysia:MY
+Switzerland:CH
+Brazil:BR
+Colombia:CO
+Turkey:TR
+Thailand:TH
+Indonesia:ID
+Pakistan:PK
+Israel:IL
+South Africa:ZA
+Sweden:SE
+Slovenia:SI
+Nigeria:NG
+Austria:AT
+Saudi Arabia:SA
+Puerto Rico:PR
+Denmark:DK
+Ireland:IE
+New Zealand:NZ
+Argentina:AR
+Czechia:CZ
+Portugal:PT
+Chile:CL
+Bangladesh:BD
+Hungary:HU
+Greece:GR
+Egypt:EG
+Finland:FI
+Romania:RO
+Norway:NO
+Lithuania:LT
+Kuwait:KW
+Ukraine:UA
+Peru:PE
+Guatemala:GT
+Costa Rica:CR
+Ecuador:EC
+Morocco:MA
+Latvia:LV
+Bulgaria:BG
+Serbia:RS
+Jamaica:JM
+Jordan:JO
+Sri Lanka:LK
+Honduras:HN
+Qatar:QA
+Panama:PA
+Estonia:EE
+Bahrain:BH
+El Salvador:SV
+Oman:OM
+Kenya:KE
+Uruguay:UY
+Cyprus:CY
+Trinidad and Tobago:TT
+Croatia:HR
+Malta:MT
+Ghana:GH
+Luxembourg:LU
+Georgia:GE
+Lebanon:LB
+Tunisia:TN
+Albania:AL
+Nicaragua:NI
+Mauritius:MU
+Nepal:NP
+Algeria:DZ
+Iraq:IQ
+Cambodia:KH
+Kazakhstan:KZ
+Iceland:IS
+Barbados:BB
+Armenia:AM
+Bermuda:BM
+Guam:GU
+Azerbaijan:AZ
+Paraguay:PY
+Uzbekistan:UZ
+Guyana:GY
+Bosnia and Herzegovina:BA
+Madagascar:MG
+Saint Lucia:LC
+Zambia:ZM
+Maldives:MV
+Angola:AO
+Ethiopia:ET
+Belize:BZ
+Brunei Darussalam:BN
+Aruba:AW
+Uganda:UG
+Zimbabwe:ZW
+Senegal:SN
+Antigua and Barbuda:AG
+Grenada:GD
+Libya:LY
+Papua New Guinea:PG
+Seychelles:SC
+Montenegro:ME
+Cameroon:CM
+Botswana:BW
+Kyrgyzstan:KG
+Fiji:FJ
+Martinique:MQ
+Mongolia:MN
+Guadeloupe:GP
+Malawi:MW
+Yemen:YE
+Afghanistan:AF
+Namibia:NA
+Liechtenstein:LI
+Rwanda:RW
+French Polynesia:PF
+Benin:BJ
+Mozambique:MZ
+Suriname:SR
+Myanmar:MM
+Monaco:MC
+Saint Kitts and Nevis:KN
+Jersey:JE
+Isle of Man:IM
+Dominica:DM
+Haiti:HT
+Saint Vincent and the Grenadines:VC
+Mali:ML
+Gibraltar:GI
+Liberia:LR
+New Caledonia:NC
+Guernsey:GG
+Djibouti:DJ
+San Marino:SM
+Burkina Faso:BF
+Greenland:GL
+Mauritania:MR
+Togo:TG
+French Guiana:GF
+Guinea:GN
+Andorra:AD
+Gabon:GA
+Anguilla:AI
+Somalia:SO
+Vanuatu:VU
+Bhutan:BT
+Lesotho:LS
+Tonga:TO
+Chad:TD
+Samoa:WS
+Burundi:BI
+Tajikistan:TJ
+Sierra Leone:SL
+Saint Pierre and Miquelon:PM
+American Samoa:AS
+Palau:PW
+Equatorial Guinea:GQ
+Eritrea:ER
+Montserrat:MS
+Timor-leste:TL
+Mayotte:YT
+Turkmenistan:TM
+South Sudan:SS
+Guinea-Bissau:GW
+Kiribati:KI
+Solomon Islands:SB
+Syrian Arab Republic:SY
+Norfolk Island:NF
+Cuba:CU
+Belarus:BY
+Tuvalu:TV
+Nauru:NR
+Niue:NU
+Sao Tome and Principe:ST
+Antarctica:AQ
+Tanzania, United Republic of:TZ
+United Kingdom:GB
+Philippines:PH
+Taiwan:TW
+Netherlands:NL
+Vietnam:VN
+United Arab Emirates:AE
+Dominican Republic:DO
+Venezuela:VE
+Slovak Republic:SK
+Bahamas:BS
+Bolivia:BO
+Palestinian Territory:PS
+Cayman Islands:KY
+Russian Federation:RU
+Cote D'Ivoire:CI
+Macedonia:MK
+Macau:MO
+Reunion:RE
+Curacao:CW
+Turks and Caicos Islands:TC
+Sint Maarten:SX
+Gambia:GM
+Northern Mariana Islands:MP
+Cape Verde:CV
+Saint Martin:MF
+Swaziland:SZ
+Caribbean Netherlands:BQ
+Congo:CG
+Faroe Islands:FO
+Niger:NE
+Aland Islands:AX
+Cook Islands:CK
+Saint Barthelemy:BL
+Marshall Islands:MH
+Holy See (Vatican City State):VA
+Central African Republic:CF
+British Indian Ocean Territory:IO
+Sudan:SD
+Wallis and Futuna Islands:WF
+Falkland Islands (Malvinas):FK
+Comoros:KM
+Cocos (Keeling) Islands:CC
+Korea, Republic of:KR
+Iran, Islamic Republic of:IR
+Micronesia, Federated States of:FM
+Congo, The Democratic Republic of the:CD
+Virgin Islands, U.S.:VI
+Moldova, Republic of:MD
+Virgin Islands, British:VG
+Lao People's Democratic Republic:LA
