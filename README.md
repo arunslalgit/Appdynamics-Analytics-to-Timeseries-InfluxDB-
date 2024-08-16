@@ -1,4 +1,4 @@
-# JMeter JSR223 Groovy Script Documentation: AppDynamics to InfluxDB Data Pipeline
+# Groovy Script Documentation: AppDynamics to InfluxDB Data Pipeline
 
 ## Overview
 
