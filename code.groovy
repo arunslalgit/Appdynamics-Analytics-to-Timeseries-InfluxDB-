@@ -18,7 +18,7 @@ import org.apache.jorphan.logging.LoggingManager
 // Logging setup
 def log = org.apache.jorphan.logging.LoggingManager.getLoggerForClass()
 def httpClient = null // Define httpClient outside try-catch block
-FileWriter writer = new FileWriter("fit_ui.txt", false) // Open the file in append mode
+FileWriter writer = new FileWriter("main_ui.txt", false) // Open the file in append mode
 String filePath = "CountryCodes.txt" // Country name to code config - Keep a comma separated list of country names and codes.
 
 try {
